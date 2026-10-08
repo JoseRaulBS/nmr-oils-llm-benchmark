@@ -1,0 +1,5 @@
+* text=auto
+*.dx -text
+*.jdx -text
+*.csv -text
+*.xlsx binary

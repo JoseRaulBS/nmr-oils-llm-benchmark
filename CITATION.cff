@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the dataset and the article listed under preferred-citation."
+type: dataset
+title: "Benchtop 1H NMR dataset of edible oils for benchmarking conversational LLMs"
+version: 1.0.0
+date-released: 2026-10-08
+license: CC-BY-4.0
+authors:
+  - family-names: Belmonte-Sánchez
+    given-names: José Raúl
+    email: jbs324@ual.es
+    affiliation: "University of Almería, Department of Chemistry and Physics, Analytical Chemistry Area, CIAIMBITAL"
+  - family-names: Romero-González
+    given-names: Roberto
+    affiliation: "University of Almería, Department of Chemistry and Physics, Analytical Chemistry Area, CIAIMBITAL"
+  - family-names: Garrido Frenich
+    given-names: Antonia
+    affiliation: "University of Almería, Department of Chemistry and Physics, Analytical Chemistry Area, CIAIMBITAL"
+keywords:
+  - NMR
+  - benchtop NMR
+  - edible oils
+  - olive oil
+  - chemometrics
+  - large language models
+preferred-citation:
+  type: article
+  title: "LLMs in the laboratory: Benchmarking conversational AI for multivariate analysis of NMR spectroscopic data"
+  journal: Analytical Chemistry
+  year: 2026
+  authors:
+    - family-names: Belmonte-Sánchez
+      given-names: José Raúl
+    - family-names: Romero-González
+      given-names: Roberto
+    - family-names: Garrido Frenich
+      given-names: Antonia

@@ -1,0 +1,4 @@
+_build_log.txt
+*.part
+Thumbs.db
+.DS_Store
